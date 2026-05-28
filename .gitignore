@@ -15,13 +15,27 @@
 *.vrb
 *.xdv
 
+# LaTeX intermediate
+*.synctex(busy)
+*.lof
+*.lot
+*.lol
+*.glg
+*.glo
+*.gls
+*.ist
+*.idx
+*.ilg
+*.ind
+*.acn
+*.acr
+*.alg
+*.bbl-SAVE-ERROR
+
 # Backup files
 *~
 *.bak
 *.swp
-
-# PDF output (uncomment if you don't want to track compiled PDFs)
-# *.pdf
 
 # OS files
 .DS_Store
